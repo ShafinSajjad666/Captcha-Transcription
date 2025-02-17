@@ -38,7 +38,9 @@ Once dependencies are installed, execute the script step by step to:
 - Extract features (MFCCs and spectrograms)
 - Transcribe the audio using Whisper
 
-If running locally, ensure the dataset is accessible at the correct path. Run the script `process_500_audio.py` to process and transcribe audio CAPTCHAs for a small sample size of 500.
+Upload the Jupyter Notebook (.ipynb file) to Google Colab. Copy the Google Drive link to your dataset and add it to My Drive using the 'Organize' option. Ensure that you update the AUDIO_DIR variable in the script to match the correct path where your audio files are stored after mounting Google Drive. For example: `AUDIO_DIR = '/content/drive/MyDrive/captchaDatabase/captchas/audio'`..
+
+If running locally, ensure the dataset is accessible at the correct path. Run the script `captcha_transcription_v2.py` to process and transcribe audio CAPTCHAs for a small sample size of 500.
 
 ---
 
