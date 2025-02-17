@@ -8,6 +8,9 @@
   
 # Audio CAPTCHA Transcription
 
+## Dataset drive link
+https://drive.google.com/drive/folders/1-2UcI9SDJrKq8RQBMDpTrcDBXepIgt9y
+
 ## Setup and Execution
 
 ### 1. Environment Setup
