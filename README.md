@@ -80,4 +80,6 @@ Each audio file undergoes:
 
 This approach ensures an efficient and scalable way to convert audio CAPTCHAs into text. Modify parameters like `sample_size` or model type as needed for full-scale processing.
 
+### Final output:
+The captcha_transcriptions.txt file contains the final output of the transcribed texts from the audio.
 
