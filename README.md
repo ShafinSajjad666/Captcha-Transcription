@@ -1,12 +1,9 @@
 # Audio CAPTCHA Transcription 🔊➡️📝
 
-# Captcha-Transcription
 "A Python-based solution for transcribing audio CAPTCHAs using Whisper. Includes noise reduction, feature extraction (MFCCs &amp; spectrograms), and transcription. Works locally or in Google Colab.
 
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Colab Compatible](https://img.shields.io/badge/Google%20Colab-Compatible-green)
-  
-# Audio CAPTCHA Transcription
 
 ## Dataset drive link
 https://drive.google.com/drive/folders/1-2UcI9SDJrKq8RQBMDpTrcDBXepIgt9y
